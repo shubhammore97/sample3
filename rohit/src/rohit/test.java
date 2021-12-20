@@ -3,7 +3,7 @@ package rohit;
 public class test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stubeerer
+		// TODO Auto-generated method stubeerers
 
 	}
 
